@@ -6,6 +6,8 @@
 // @include  http://read.amazon.com/
 // @run-at        document-end
 // @grant         none
+// @require callalerttest.js
+// @require popupform.js
 // @require fg_ajax.js
 // @require fg_form_submitter.js
 // @require fg_moveable_popup.js
